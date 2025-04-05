@@ -12,6 +12,8 @@ Bad hacker log:
 
 
 use:
->  git clone https://github.com/Sn1tch3r/Honey-PoT.git 
->  cd Honey-PoT **
+>  git clone https://github.com/Sn1tch3r/Honey-PoT.git
+
+>  cd Honey-PoT
+
 >  Link the honeypot file to your server. 
